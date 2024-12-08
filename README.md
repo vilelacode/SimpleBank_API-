@@ -1,4 +1,4 @@
-# SimpleBank API Backend
+# SimpleBank API Back-End
 
 
 # Instruções para Executar a Aplicação com Docker
